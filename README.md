@@ -1,2 +1,38 @@
 # peek.ai
-An AI-powered assistant that automatically tracks your competitors' product updates — so you never miss a changelog, UI tweak, or pricing shift again.  
+
+# 🕵️‍♀️ Competitor Feature Tracker for PMs
+
+An AI-powered assistant that helps Product Managers stay ahead by automatically monitoring competitor updates — changelogs, UI tweaks, pricing changes, and more — all in one place.
+
+Built as part of the **AI Agent Hackathon** by [Product Space](https://www.productspace.ai/).
+
+---
+
+## ✨ Features
+
+- 🔍 Monitors changelogs, websites, blogs, and social media
+- 🧠 Uses **LangChain + GPT-4** to extract updates in plain English
+- 🗂️ Categorizes changes into: Product, UI, Pricing
+- 📬 Sends weekly summaries via **Slack** or **Notion**
+- ⚡ Built with **Streamlit** for an interactive, shareable UI
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer        | Technology                          |
+|--------------|--------------------------------------|
+| 🧠 AI/NLP     | OpenAI GPT-4 + LangChain             |
+| 🌐 Scraping   | Requests, BeautifulSoup, Selenium    |
+| 🎨 Frontend   | Streamlit                            |
+| 🔗 Integration| Notion API, Slack Webhooks           |
+| 🗃️ Storage    | JSON/CSV (for prototyping)           |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/competitor-feature-tracker.git
+cd competitor-feature-tracker
