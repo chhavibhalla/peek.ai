@@ -28,11 +28,5 @@ Built as part of the **AI Agent Hackathon** by [Product Space](https://www.produ
 | 🔗 Integration| Notion API, Slack Webhooks           |
 | 🗃️ Storage    | JSON/CSV (for prototyping)           |
 
----
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/competitor-feature-tracker.git
-cd competitor-feature-tracker
