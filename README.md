@@ -1,4 +1,3 @@
-# peek.ai
 
 # 🕵️‍♀️ Competitor Feature Tracker for PMs
 
@@ -12,7 +11,7 @@ Built as part of the **AI Agent Hackathon** by [Product Space](https://www.produ
 
 - 🔍 Monitors changelogs, websites, blogs, and social media
 - 🧠 Uses **LangChain + GPT-4** to extract updates in plain English
-- 🗂️ Categorizes changes into: Product, UI, Pricing
+- 🗂️ Categorises changes into: Product, UI, Pricing
 - 📬 Sends weekly summaries via **Slack** or **Notion**
 - ⚡ Built with **Streamlit** for an interactive, shareable UI
 
